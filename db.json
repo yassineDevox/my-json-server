@@ -1,3 +1,5 @@
 {
-  counter:100
+  counter:{
+    value: 100
+  }
 }
